@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, just here.
 - 😄 Pronouns: Call me Junior
-- ⚡ Fun fact: M
+- ⚡ Fun fact: 
 
 <!---
 Juniorconnect/Juniorconnect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
